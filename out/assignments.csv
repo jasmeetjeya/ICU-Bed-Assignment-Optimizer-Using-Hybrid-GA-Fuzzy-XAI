@@ -1,0 +1,41 @@
+bed_id,specialty,assigned_patient,patient_specialty,priority_score,survival_score,ventilator_need,dialysis_need,nurse_intensity,reason
+1,general,80,renal,0.95,0.343,0,1,1.87,no specialty match; dialysis ready; priority 0.95
+2,trauma,146,trauma,0.859,0.31,0,0,1.92,specialty match; priority 0.86
+3,cardio,45,cardio,0.626,0.412,1,0,1.74,specialty match; ventilator provided; priority 0.63
+4,cardio,54,neuro,0.25,0.704,1,0,0.97,no specialty match; ventilator provided; priority 0.25
+5,trauma,59,trauma,0.6,0.38,0,0,1.72,specialty match; priority 0.60
+6,trauma,111,general,0.6,0.527,0,0,0.97,no specialty match; priority 0.60
+7,cardio,79,cardio,0.6,0.485,1,0,1.22,specialty match; ventilator provided; priority 0.60
+8,trauma,98,trauma,0.6,0.409,0,0,1.31,specialty match; priority 0.60
+9,trauma,62,trauma,0.6,0.384,0,0,1.29,specialty match; priority 0.60
+10,pulmo,9,general,0.6,0.442,0,0,1.33,no specialty match; priority 0.60
+11,trauma,23,trauma,0.6,0.414,1,0,1.38,specialty match; ventilator provided; priority 0.60
+12,trauma,71,neuro,0.6,0.428,0,0,1.52,no specialty match; priority 0.60
+13,neuro,6,renal,0.6,0.409,0,1,1.36,no specialty match; dialysis ready; priority 0.60
+14,trauma,143,trauma,0.6,0.343,0,0,1.86,specialty match; priority 0.60
+15,trauma,96,trauma,0.25,0.539,0,0,1.38,specialty match; priority 0.25
+16,neuro,72,neuro,0.6,0.443,1,0,1.27,specialty match; ventilator provided; priority 0.60
+17,neuro,67,neuro,0.6,0.437,1,0,2.2,specialty match; ventilator provided; priority 0.60
+18,renal,29,general,0.6,0.435,1,0,1.22,no specialty match; ventilator provided; priority 0.60
+19,general,103,general,0.6,0.335,1,0,1.81,specialty match; ventilator provided; priority 0.60
+20,general,52,general,0.6,0.4,0,0,1.37,specialty match; priority 0.60
+21,neuro,34,neuro,0.6,0.356,0,0,1.78,specialty match; priority 0.60
+22,neuro,28,trauma,0.6,0.402,1,0,1.38,no specialty match; ventilator provided; priority 0.60
+23,cardio,60,renal,0.6,0.398,0,1,1.63,no specialty match; dialysis ready; priority 0.60
+24,general,63,general,0.6,0.395,0,0,1.6,specialty match; priority 0.60
+25,pulmo,73,pulmo,0.25,0.654,1,0,1.26,specialty match; ventilator provided; priority 0.25
+26,neuro,84,renal,0.6,0.385,1,0,1.73,no specialty match; ventilator provided; priority 0.60
+27,neuro,149,cardio,0.6,0.385,0,0,1.61,no specialty match; priority 0.60
+28,pulmo,16,pulmo,0.6,0.479,1,0,1.32,specialty match; ventilator provided; priority 0.60
+29,general,93,general,0.6,0.404,0,0,1.08,specialty match; priority 0.60
+30,cardio,53,cardio,0.6,0.326,0,0,1.77,specialty match; priority 0.60
+31,trauma,87,general,0.6,0.379,0,0,1.4,no specialty match; priority 0.60
+32,neuro,88,pulmo,0.6,0.369,1,0,1.44,no specialty match; ventilator provided; priority 0.60
+33,pulmo,136,pulmo,0.6,0.374,0,0,1.51,specialty match; priority 0.60
+34,neuro,130,pulmo,0.6,0.373,1,0,1.58,no specialty match; ventilator provided; priority 0.60
+35,general,119,cardio,0.6,0.372,0,0,1.73,no specialty match; priority 0.60
+36,neuro,19,general,0.6,0.367,0,0,1.59,no specialty match; priority 0.60
+37,general,75,general,0.6,0.405,1,0,1.78,specialty match; ventilator provided; priority 0.60
+38,trauma,46,pulmo,0.6,0.367,0,0,1.48,no specialty match; priority 0.60
+39,general,141,general,0.6,0.367,1,0,1.39,specialty match; ventilator provided; priority 0.60
+40,cardio,132,neuro,0.6,0.362,0,0,1.72,no specialty match; priority 0.60
